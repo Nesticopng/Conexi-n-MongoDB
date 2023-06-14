@@ -4,8 +4,8 @@
 
 3 - Ejecutar el comando: npm install
 
-4 - En el archivo '.env' introducimos la URL  
+4 - En el archivo '.env' introducimos el String de conexion en el valor de "MONGO_KEY" dentro de las comillas simples '' 
 
 5 - Ejecutar en el terminal el comando: npm run start
 
-6 - Una vez ejecutado abrir el index.html del /home/
+Y ya estaría lista la conexión a MongoDB
